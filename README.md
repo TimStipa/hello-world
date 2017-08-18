@@ -1,2 +1,2 @@
 # hello-world
-Git Tutorial - Branching Locally with SSH
+Git Tutorial - Branching Locally
