@@ -1,2 +1,2 @@
 # hello-world
-Git Tutorial - Branching
+Git Tutorial - Branching Locally
